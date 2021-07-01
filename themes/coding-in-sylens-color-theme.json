@@ -769,5 +769,5 @@
   },
   "workbench.editor.untitled.hint": "hidden",
   "breadcrumbs.enabled": false,
-  "editor.minimap.enabled": true,
+  "editor.minimap.enabled": false,
 }
