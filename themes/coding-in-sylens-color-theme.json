@@ -279,13 +279,13 @@
       {
         "name": "Types",
         "scope": [
-          "keyword", //import, export, return…
-          "constant", //String, Number, Boolean…, this, super
-          "storage.modifier", //static keyword
-          "storage.type.js", //types keyword
-          "storage.type.class.js", //class keyword
-          "storage.type.function.js", //function keyword
-          "meta.definition.function.js", //function name
+          "keyword", // import, export, return…
+          "constant", // String, Number, Boolean…, this, super
+          "storage.modifier", // static keyword
+          "storage.type.js", // types keyword
+          "storage.type.class.js", // class keyword
+          "storage.type.function.js", // function keyword
+          "meta.definition.function.js", // function name
           "entity.other.attribute-name.html",
         ],
         "settings": {
@@ -770,4 +770,6 @@
   "workbench.editor.untitled.hint": "hidden",
   "breadcrumbs.enabled": false,
   "editor.minimap.enabled": false,
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
 }
